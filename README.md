@@ -8,10 +8,10 @@
 
 ## Contents
 
-* [Open-Vocabulary Object Detection](#Open-Vocabulary Object Detection)
-* [Open-Vocabulary Aerial Object Detection](#Open-Vocabulary Aerial Object Detection)
-* [Open-Vocabulary 3D Object Detection](#Open-Vocabulary 3D Object Detection)
-* [Related Survey](#Related Survey)
+* [Open-Vocabulary Object Detection](#Open-Vocabulary-Object-Detection)
+* [Open-Vocabulary Aerial Object Detection](#Open-Vocabulary-Aerial-Object-Detection)
+* [Open-Vocabulary 3D Object Detection](#Open-Vocabulary-3D-Object-Detection)
+* [Related Survey](#Related-Survey)
 
 
 
